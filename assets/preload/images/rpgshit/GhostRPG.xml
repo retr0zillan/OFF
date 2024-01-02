@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GhostRPG.png">
+<SubTexture name="GhostRPG up0000" x="0" y="0" width="26" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0001" x="0" y="0" width="26" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0002" x="0" y="0" width="26" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0003" x="0" y="0" width="26" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0004" x="0" y="0" width="26" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0005" x="0" y="0" width="26" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0006" x="0" y="0" width="26" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0007" x="0" y="0" width="26" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG up0008" x="0" y="0" width="26" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0000" x="26" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0001" x="26" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0002" x="26" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0003" x="53" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0004" x="53" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0005" x="53" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0006" x="53" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0007" x="53" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG right0008" x="53" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0000" x="80" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0001" x="80" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0002" x="80" y="0" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0003" x="80" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0004" x="80" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0005" x="80" y="0" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0006" x="80" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0007" x="80" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG left0008" x="80" y="0" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0000" x="0" y="41" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0001" x="0" y="41" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0002" x="0" y="41" width="27" height="41" frameX="0" frameY="-2" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0003" x="0" y="41" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0004" x="0" y="41" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0005" x="0" y="41" width="27" height="41" frameX="0" frameY="-1" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0006" x="0" y="41" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0007" x="0" y="41" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+<SubTexture name="GhostRPG down0008" x="0" y="41" width="27" height="41" frameX="0" frameY="0" frameWidth="16" frameHeight="32" />
+</TextureAtlas>

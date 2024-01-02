@@ -1,0 +1,76 @@
+{
+	
+	"camOffset": [
+		250,
+		60
+	],
+	"healthColor": "0xFF31B0D1",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		350
+	],
+	"flipX": false,
+	"spritesheet": "Judge",
+	"anims": [
+		{
+			"prefix": "idle",
+			"offsets": [
+				-136,
+				-120
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"prefix": "down",
+			"offsets": [
+				-135,
+				-146
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "up",
+			"offsets": [
+				-140,
+				-116
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "left",
+			"offsets": [
+				-122,
+				-119
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "right",
+			"offsets": [
+				-134,
+				-134
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"antialiasing": true,
+	"iconName": "dad",
+	"scale": 1
+}

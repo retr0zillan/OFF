@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-146,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				24
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				44
+			],
+			"anim": "attack1",
+			"fps": 24,
+			"name": "attack1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				41
+			],
+			"anim": "attack2",
+			"fps": 24,
+			"name": "attack2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Batter",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

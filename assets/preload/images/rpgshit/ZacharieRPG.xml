@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ZacharieRPG.png">
+<SubTexture name="ZacharieRPG idle1_0000" x="70" y="58" width="24" height="35" frameX="-36" frameY="-39" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG idle2_0000" x="110" y="0" width="26" height="35" frameX="-34" frameY="-71" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG idle3_0000" x="110" y="35" width="24" height="35" frameX="-35" frameY="-103" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG portrait0000" x="54" y="0" width="56" height="54" frameX="-84" frameY="-13" frameWidth="272" frameHeight="168" />
+<SubTexture name="ZacharieRPG afterJaphet1_0000" x="0" y="58" width="23" height="38" frameX="-226" frameY="-38" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG afterJaphet2_0000" x="46" y="58" width="24" height="36" frameX="-225" frameY="-72" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG afterJaphet3_0000" x="23" y="58" width="23" height="38" frameX="-226" frameY="-102" frameWidth="16" frameHeight="16" />
+<SubTexture name="ZacharieRPG afterPortrait0000" x="0" y="0" width="54" height="58" frameX="-141" frameY="-11" frameWidth="272" frameHeight="168" />
+</TextureAtlas>

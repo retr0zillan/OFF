@@ -1,0 +1,66 @@
+{
+	"charOffset": [
+		0,
+		0
+	],
+	"singDur": 6.1,
+	"spritesheet": "Queen",
+	"anims": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"prefix": "IDLE",
+			"looped": false,
+			"name": "idle"
+		},
+		{
+			"prefix": "UP",
+			"offsets": [
+				-4,
+				11
+			],
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "LEFT",
+			"offsets": [
+				-1,
+				3
+			],
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "RIGHT",
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "DOWN",
+			"offsets": [
+				0,
+				-8
+			],
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		}
+	],
+	"flipX": false,
+	"antialiasing": true,
+	"iconName": "dad",
+	"beatDancer": false,
+	"healthColor": "0xFFAF66CE",
+	"format": "andromeda"
+}

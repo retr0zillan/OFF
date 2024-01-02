@@ -1,0 +1,24 @@
+{
+  "actsLike": "default",
+  "scale": 0.7,
+  "antialiasing": true,
+  "arguments": {
+      "noHolds": true,
+      "notes":{
+        "sheet": "Bat",
+        "up":{
+          "prefix": "HomeRun"
+        },
+        "down":{
+          "prefix": "HomeRun"
+        },
+        "left":{
+          "prefix": "HomeRun"
+        },
+        "right":{
+          "prefix": "HomeRun"
+        }
+
+      }
+  }
+}

@@ -1,0 +1,12 @@
+-zacharie-Batter! You've returned! I didn't expect to see my inventory book again so soon. 
+-zacharie-You've truly outdone yourself this time!
+-batter-Here it is.
+-zacharie-Excellent! You have my deepest gratitude, Batter. 
+-zacharie-This book holds the key to my business, and I owe you for bringing it back to me.
+-batter-It was no trouble at all.
+-zacharie-As a token of my appreciation, Batter, I have something for you. Consider it a small reward for your efforts.
+-narrator-You have received a Mysterious Comic.
+-batter-What is it?
+-zacharie-Ah, that, my friend, is a mysterious comic I stumbled upon during my travels. 
+-zacharie-Its contents are shrouded in secrecy, but I believe it might pique your interest.
+-batter-Thanks.

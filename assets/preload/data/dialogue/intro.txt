@@ -1,0 +1,21 @@
+-judge-There cannot be any other living beings in zone 0, so I must assume that you are only a mere figment of my imagination, but...
+-judge-Here you are again, long time no see dear Batter. How unexpected.
+-judge-Nevertheless, I will introduce myself. I am the Judge, what should I call you, dear Batter? Or have you forgotten your own name?
+-batter-My name is still the Batter.
+-batter-I have been assigned a sacred mission.
+-judge-Oh, how fascinating. So the puppet returns, strings and all. I must ask who is the puppeteer pulling your strings this time
+-batter- userName is the one who guides me, though playerPronoum cannot talk with us.
+-judge-Fascinating, isn't it? let it be said that i am delighted to meet you, dear userName, what brings you back to this forsaken realm?
+-batter-I am here to finish what the previous Batter failed to accomplish.
+-judge-Ah, the failures of the past. Such amusing tales they make. But can you, dear Batter, escape the same fate?
+-batter-...
+-judge-Even though you, exist solely within the boundaries of my mind, let it be said that im delighted to meet you again, dear Batter.
+-batter-I believe we're in need of your services.
+-judge-Let me guess, you have to purify the world.
+-judge-There is no objective more laudable than yours. I accept to serve you as a guide throught this area, if it is of any help to you.
+-batter-Thanks.
+
+
+
+
+

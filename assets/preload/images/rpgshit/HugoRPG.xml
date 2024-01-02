@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HugoRPG.png">
+<SubTexture name="HugoRPG idle0000" x="53" y="0" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0001" x="53" y="0" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0002" x="0" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0003" x="0" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0004" x="27" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0005" x="27" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0006" x="0" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG idle0007" x="0" y="46" width="27" height="26" frameX="0" frameY="0" frameWidth="15" frameHeight="14" />
+<SubTexture name="HugoRPG portrait0000" x="0" y="0" width="53" height="46" frameX="0" frameY="0" frameWidth="41" frameHeight="34" />
+</TextureAtlas>

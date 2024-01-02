@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="teleport.png">
+<SubTexture name="teleport teleporting0000" x="222" y="58" width="74" height="35" frameX="-8" frameY="-107" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0001" x="222" y="93" width="74" height="35" frameX="-8" frameY="-98" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0002" x="222" y="0" width="74" height="58" frameX="-8" frameY="-84" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0003" x="148" y="110" width="74" height="73" frameX="-8" frameY="-60" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0004" x="74" y="110" width="74" height="74" frameX="-8" frameY="-45" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0005" x="74" y="0" width="74" height="109" frameX="-8" frameY="-34" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0006" x="0" y="0" width="74" height="110" frameX="-8" frameY="-23" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0007" x="148" y="0" width="74" height="87" frameX="-8" frameY="-32" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0008" x="0" y="110" width="74" height="82" frameX="-8" frameY="-16" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0009" x="222" y="128" width="74" height="35" frameX="-8" frameY="-50" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0010" x="0" y="192" width="74" height="35" frameX="-8" frameY="-32" frameWidth="84" frameHeight="141" />
+<SubTexture name="teleport teleporting0011" x="74" y="192" width="74" height="35" frameX="-8" frameY="-19" frameWidth="84" frameHeight="141" />
+</TextureAtlas>

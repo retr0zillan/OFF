@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CoolBoxes.png">
+<SubTexture name="CoolBoxes red save idle0000" x="0" y="0" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes red save idle0001" x="0" y="0" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes yellow save idle0000" x="20" y="0" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes yellow save idle0001" x="20" y="0" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes black save idle0000" x="40" y="0" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes black save idle0001" x="40" y="0" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes yellow box idle0000" x="0" y="21" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes yellow box idle0001" x="0" y="21" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes green box idle0000" x="20" y="21" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes green box idle0001" x="20" y="21" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes pink box idle0000" x="40" y="21" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes pink box idle0001" x="40" y="21" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes orange box idle0000" x="60" y="0" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes orange box idle0001" x="60" y="0" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes dark green box idle0000" x="60" y="21" width="20" height="21" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="CoolBoxes dark green box idle0001" x="60" y="21" width="20" height="21" frameX="0" frameY="-5" frameWidth="16" frameHeight="16" />
+</TextureAtlas>

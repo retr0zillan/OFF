@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EnochRPG.png">
+<SubTexture name="EnochRPG idle0000" x="0" y="0" width="108" height="98" frameX="0" frameY="-10" frameWidth="96" frameHeight="96" />
+<SubTexture name="EnochRPG portrait0000" x="108" y="0" width="60" height="58" frameX="0" frameY="-50" frameWidth="96" frameHeight="96" />
+</TextureAtlas>

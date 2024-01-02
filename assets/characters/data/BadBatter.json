@@ -1,0 +1,87 @@
+{
+	
+	"camOffset": [
+		260,
+		-430
+	],
+	"healthColor": "0xFF31B0D1",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		350
+	],
+	"flipX": false,
+	"spritesheet": "BadBatter",
+	"anims": [
+		{
+			"prefix": "idle",
+			"offsets": [
+				4,
+				170
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		},
+		{
+			"prefix": "down",
+			"offsets": [
+				2,
+				19
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "up",
+			"offsets": [
+				175,
+				333
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "left",
+			"offsets": [
+				87,
+				163
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "right",
+			"offsets": [
+				26,
+				186
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "dies",
+			"offsets": [
+				22,
+				318
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "dies",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"antialiasing": true,
+	"iconName": "dad",
+	"scale": 1
+}

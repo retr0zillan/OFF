@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="save.png">
+<SubTexture name="save SavingAnim0000" x="11" y="0" width="11" height="13" frameX="-2" frameY="-3" frameWidth="15" frameHeight="18" />
+<SubTexture name="save SavingAnim0001" x="0" y="0" width="11" height="14" frameX="-2" frameY="-2" frameWidth="15" frameHeight="18" />
+<SubTexture name="save SavingAnim0002" x="22" y="0" width="11" height="13" frameX="-2" frameY="-3" frameWidth="15" frameHeight="18" />
+<SubTexture name="save SavingAnim0003" x="0" y="14" width="13" height="12" frameX="-1" frameY="-5" frameWidth="15" frameHeight="18" />
+<SubTexture name="save SavingAnim0004" x="13" y="14" width="11" height="12" frameX="-2" frameY="-5" frameWidth="15" frameHeight="18" />
+<SubTexture name="save Static0000" x="13" y="14" width="11" height="12" frameX="-2" frameY="-4" frameWidth="15" frameHeight="18" />
+</TextureAtlas>

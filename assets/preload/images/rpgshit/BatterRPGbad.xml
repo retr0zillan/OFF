@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BatterRPGbad.png">
+<SubTexture name="BatterRPGbad up0000" x="0" y="32" width="22" height="31" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad up0001" x="22" y="32" width="22" height="31" frameX="-4" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad up0002" x="44" y="32" width="22" height="31" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad up0003" x="22" y="32" width="22" height="31" frameX="-4" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad right0000" x="72" y="0" width="26" height="31" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad right0001" x="0" y="0" width="24" height="32" frameX="-6" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad right0002" x="72" y="31" width="24" height="31" frameX="-6" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad right0003" x="24" y="0" width="24" height="32" frameX="-6" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad down0000" x="50" y="63" width="22" height="30" frameX="-4" frameY="-3" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad down0001" x="72" y="63" width="22" height="30" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad down0002" x="98" y="0" width="22" height="30" frameX="-4" frameY="-3" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad down0003" x="72" y="63" width="22" height="30" frameX="-4" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad left0000" x="0" y="63" width="24" height="31" frameX="0" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad left0001" x="48" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad left0002" x="24" y="63" width="26" height="31" frameX="0" frameY="-2" frameWidth="16" frameHeight="16" />
+<SubTexture name="BatterRPGbad left0003" x="48" y="0" width="24" height="32" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+</TextureAtlas>

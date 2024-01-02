@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SomeObjects.png">
+<SubTexture name="arrow idle0000" x="40" y="57" width="20" height="20" frameX="-3" frameY="-5" frameWidth="16" frameHeight="21" />
+<SubTexture name="arrow idle0001" x="40" y="57" width="20" height="20" frameX="-3" frameY="-7" frameWidth="16" frameHeight="21" />
+<SubTexture name="arrow idle0002" x="40" y="57" width="20" height="20" frameX="-3" frameY="-5" frameWidth="16" frameHeight="21" />
+<SubTexture name="yellow_chest_closed0000" x="0" y="31" width="26" height="26" frameX="0" frameY="-5" frameWidth="16" frameHeight="21" />
+<SubTexture name="yellow_chest_open0000" x="0" y="0" width="26" height="31" frameX="0" frameY="0" frameWidth="16" frameHeight="21" />
+<SubTexture name="green_chest_closed0000" x="26" y="31" width="26" height="26" frameX="0" frameY="-5" frameWidth="16" frameHeight="21" />
+<SubTexture name="green_chest_open0000" x="26" y="0" width="26" height="31" frameX="0" frameY="0" frameWidth="16" frameHeight="21" />
+<SubTexture name="purple_chest_closed0000" x="52" y="31" width="26" height="26" frameX="0" frameY="-5" frameWidth="16" frameHeight="21" />
+<SubTexture name="purple_chest_open0000" x="52" y="0" width="26" height="31" frameX="0" frameY="0" frameWidth="16" frameHeight="21" />
+<SubTexture name="red_box0000" x="0" y="57" width="10" height="11" frameX="0" frameY="0" frameWidth="10" frameHeight="11" />
+<SubTexture name="yellow_box0000" x="20" y="57" width="20" height="21" frameX="-1" frameY="-1" frameWidth="12" frameHeight="13" />
+</TextureAtlas>

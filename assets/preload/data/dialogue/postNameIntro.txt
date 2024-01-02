@@ -1,0 +1,6 @@
+-narrator-Alright.
+-narrator-Welcome, userName.
+-narrator-You have been assigned to a being called "The Batter".
+-narrator-The Batter has an important mission. Be sure that it's accomplished.
+-narrator-We will let you out in zone 0. Good luck.
+-narrator-For more information, find the one called "The Judge".

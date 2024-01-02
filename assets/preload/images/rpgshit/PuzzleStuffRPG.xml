@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PuzzleStuffRPG.png">
+<SubTexture name="Green20000" x="72" y="0" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Black20000" x="72" y="23" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Pink20000" x="0" y="50" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Lima20000" x="22" y="50" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Orange20000" x="44" y="50" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Yellow20000" x="66" y="50" width="22" height="23" frameX="-1" frameY="-1" frameWidth="16" frameHeight="16" />
+<SubTexture name="Black10000" x="0" y="0" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="Pink10000" x="24" y="0" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="Lima10000" x="48" y="0" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="Orange10000" x="0" y="25" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="Green10000" x="24" y="25" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+<SubTexture name="Yellow10000" x="48" y="25" width="24" height="25" frameX="0" frameY="0" frameWidth="16" frameHeight="16" />
+</TextureAtlas>

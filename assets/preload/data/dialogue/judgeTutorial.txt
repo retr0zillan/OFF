@@ -1,0 +1,21 @@
+-judge-Please, allow me to shed light upon the intricacies of this battle system.
+-judge-Firstly, what you see on the screen is the battle status. 
+-judge-The bar at the bottom represents your health. 
+-judge-It's essential to keep an eye on it throughout the encounter.
+-judge-Your objective is to press all the notes that appear on the screen when they reach the designated area. 
+-judge-Timing is crucial. Aim to strike them precisely at the right moment.
+-judge-Now, there is a special type of note that resembles a bat. This note allows you to inflict damage upon your enemy. 
+-judge-To utilize it effectively, you must press all the note keys simultaneously when the bat reaches the topmost part of the screen.
+-judge-Additionally, I must inform you that you can access the pause menu using either the ESCAPE or ENTER keys. 
+-judge-However, for the time being, you will not be able to access it as you are receiving this explanation. 
+-judge-Inside the pause menu, you will find various options. 
+-judge-You can use restorative items you come across during your journey and also review your key items and equipped objects.
+-judge-Furthermore, the pause menu offers an option to exit and return to the main menu if necessary. 
+-judge-Within the pause menu, you will have the ability to check your current level. 
+-judge-As you engage in battles and defeat enemies, your level will increase. 
+-judge-By default, this will raise your maximum health, granting you additional endurance in combat.
+-judge-Keep that in mind.
+-judge-If you find that the default key bindings for pressing the notes are not to your liking.
+-judge-You can change them in the options menu, which is accessible from the main menu. 
+-judge-Additionally, you can choose between DOWN SCROLL and UP SCROLL for the direction of the notes.
+-judge-If you have understood all the information provided thus far, we may proceed.

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Judge.png">
+<SubTexture name="Judge up0000" x="0" y="0" width="21" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge up0001" x="21" y="0" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge up0002" x="41" y="0" width="21" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge up0003" x="21" y="0" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge right0000" x="62" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge right0001" x="62" y="26" width="24" height="26" frameX="-1" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge right0002" x="0" y="54" width="26" height="26" frameX="0" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge right0003" x="62" y="26" width="24" height="26" frameX="-1" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge down0000" x="0" y="27" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge down0001" x="20" y="27" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge down0002" x="40" y="27" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge down0003" x="20" y="27" width="20" height="27" frameX="-3" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge left0000" x="26" y="54" width="26" height="26" frameX="0" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge left0001" x="52" y="54" width="24" height="26" frameX="-1" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge left0002" x="88" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="16" frameHeight="17" />
+<SubTexture name="Judge left0003" x="52" y="54" width="24" height="26" frameX="-1" frameY="0" frameWidth="16" frameHeight="17" />
+</TextureAtlas>

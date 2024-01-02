@@ -1,0 +1,1966 @@
+{
+	"sliderVelocities": [
+		{
+			"multiplier": 1,
+			"startTime": 0
+		}
+	],
+	"song": {
+		"player1": "Batter",
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 9896.90721649485
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11443.2989690722,
+						1,
+						154.639175257732
+					],
+					[
+						11752.5773195876,
+						3,
+						463.917525773196
+					],
+					[
+						9896.90721649485,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						12371.1340206186,
+						1,
+						463.917525773196
+					],
+					[
+						13608.2474226804,
+						0,
+						773.19587628866
+					],
+					[
+						14536.0824742268,
+						3,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14845.3608247423,
+						2,
+						773.19587628866
+					],
+					[
+						15773.1958762887,
+						1,
+						773.19587628866
+					],
+					[
+						16701.0309278351,
+						3,
+						463.917525773196
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						17319.587628866,
+						0,
+						1082.47422680412
+					],
+					[
+						18865.9793814433,
+						2,
+						154.639175257732
+					],
+					[
+						19175.2577319588,
+						0,
+						154.639175257732
+					],
+					[
+						19484.5360824742,
+						1,
+						154.639175257732
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 19793.8144329897
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						21340.206185567,
+						5,
+						154.639175257732
+					],
+					[
+						21649.4845360825,
+						6,
+						463.917525773196
+					],
+					[
+						19793.8144329897,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 22268.0412371134
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22268.0412371134,
+						4,
+						463.917525773196
+					],
+					[
+						23195.8762886598,
+						7,
+						154.639175257732
+					],
+					[
+						23505.1546391753,
+						5,
+						463.917525773196
+					],
+					[
+						24123.7113402062,
+						6,
+						463.917525773196
+					],
+					[
+						22268.0412371134,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 24742.2680412371
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24742.2680412371,
+						4,
+						773.19587628866
+					],
+					[
+						25670.1030927835,
+						5,
+						773.19587628866
+					],
+					[
+						26597.9381443299,
+						7,
+						463.917525773196
+					],
+					[
+						24742.2680412371,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 27216.4948453608
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 28453.6082474227
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						27216.4948453608,
+						6,
+						1082.47422680412
+					],
+					[
+						29072.1649484536,
+						6,
+						154.639175257732
+					],
+					[
+						29381.4432989691,
+						7,
+						154.639175257732
+					],
+					[
+						27216.4948453608,
+						0,
+						0,
+						3
+					],
+					[
+						28453.6082474227,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 30309.2783505155
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 31237.1134020619
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29690.7216494845,
+						0,
+						154.639175257732
+					],
+					[
+						31237.1134020619,
+						2,
+						154.639175257732
+					],
+					[
+						31546.3917525773,
+						0,
+						154.639175257732
+					],
+					[
+						31855.6701030928,
+						1,
+						154.639175257732
+					],
+					[
+						30309.2783505155,
+						4,
+						0,
+						3
+					],
+					[
+						31237.1134020619,
+						4,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 33402.0618556701
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						32164.9484536082,
+						3,
+						773.19587628866
+					],
+					[
+						32474.2268041237,
+						2,
+						463.917525773196
+					],
+					[
+						33711.3402061856,
+						0,
+						154.639175257732
+					],
+					[
+						33711.3402061856,
+						1,
+						154.639175257732
+					],
+					[
+						34020.618556701,
+						2,
+						154.639175257732
+					],
+					[
+						34020.618556701,
+						3,
+						154.639175257732
+					],
+					[
+						34329.8969072165,
+						1,
+						154.639175257732
+					],
+					[
+						34329.8969072165,
+						2,
+						154.639175257732
+					],
+					[
+						33402.0618556701,
+						4,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 36494.8453608247
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34639.175257732,
+						0,
+						773.19587628866
+					],
+					[
+						34639.175257732,
+						2,
+						773.19587628866
+					],
+					[
+						35567.0103092783,
+						3,
+						1391.75257731959
+					],
+					[
+						35567.0103092783,
+						1,
+						1391.75257731959
+					],
+					[
+						36494.8453608247,
+						4,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37113.4020618557,
+						0,
+						773.19587628866
+					],
+					[
+						37113.4020618557,
+						3,
+						773.19587628866
+					],
+					[
+						38041.2371134021,
+						1,
+						773.19587628866
+					],
+					[
+						38041.2371134021,
+						2,
+						773.19587628866
+					],
+					[
+						38969.0721649485,
+						2,
+						463.917525773196
+					],
+					[
+						38969.0721649485,
+						3,
+						463.917525773196
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 40206.1855670103
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 41134.0206185567
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						39587.6288659794,
+						4,
+						463.917525773196
+					],
+					[
+						40206.1855670103,
+						0,
+						1.13686837721616e-13,
+						3
+					],
+					[
+						41134.0206185567,
+						0,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 42680.412371134
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 43608.2474226804
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						42061.8556701031,
+						6,
+						463.917525773196
+					],
+					[
+						42680.412371134,
+						0,
+						1.13686837721616e-13,
+						3
+					],
+					[
+						43608.2474226804,
+						0,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 45154.6391752577
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 46082.4742268041
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44536.0824742268,
+						4,
+						463.917525773196
+					],
+					[
+						46391.7525773196,
+						7,
+						463.917525773196
+					],
+					[
+						45154.6391752577,
+						0,
+						0,
+						3
+					],
+					[
+						46082.4742268041,
+						0,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 47628.8659793814
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 48556.7010309278
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						47010.3092783505,
+						5,
+						463.917525773196
+					],
+					[
+						48865.9793814433,
+						5,
+						154.639175257732
+					],
+					[
+						49175.2577319588,
+						4,
+						154.639175257732
+					],
+					[
+						47628.8659793814,
+						0,
+						1.13686837721616e-13,
+						3
+					],
+					[
+						48556.7010309278,
+						0,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 49484.5360824742
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 50721.6494845361
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						49484.5360824742,
+						2,
+						1082.47422680412
+					],
+					[
+						50721.6494845361,
+						0,
+						463.917525773196
+					],
+					[
+						51340.206185567,
+						1,
+						463.917525773196
+					],
+					[
+						49484.5360824742,
+						3,
+						927.835051546392,
+						0
+					],
+					[
+						49484.5360824742,
+						4,
+						0,
+						3
+					],
+					[
+						50721.6494845361,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 51958.7628865979
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 52422.6804123711
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 52886.5979381443
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 53814.4329896907
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51958.7628865979,
+						3,
+						463.917525773196
+					],
+					[
+						51958.7628865979,
+						1,
+						463.917525773196
+					],
+					[
+						52577.3195876289,
+						0,
+						463.917525773196
+					],
+					[
+						52577.3195876289,
+						2,
+						463.917525773196
+					],
+					[
+						53195.8762886598,
+						1,
+						463.917525773196
+					],
+					[
+						53814.4329896907,
+						3,
+						154.639175257732
+					],
+					[
+						54123.7113402062,
+						1,
+						154.639175257732
+					],
+					[
+						51958.7628865979,
+						4,
+						0,
+						3
+					],
+					[
+						52422.6804123711,
+						4,
+						5.6843418860808e-14,
+						3
+					],
+					[
+						52886.5979381443,
+						4,
+						1.13686837721616e-13,
+						3
+					],
+					[
+						53814.4329896907,
+						4,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 54432.9896907216
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 55670.1030927835
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54432.9896907216,
+						4,
+						463.917525773196
+					],
+					[
+						55051.5463917526,
+						6,
+						463.917525773196
+					],
+					[
+						55670.1030927835,
+						5,
+						463.917525773196
+					],
+					[
+						56288.6597938144,
+						6,
+						463.917525773196
+					],
+					[
+						54432.9896907216,
+						0,
+						0,
+						3
+					],
+					[
+						55670.1030927835,
+						0,
+						2.27373675443232e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 56907.2164948454
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 57525.7731958763
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 58144.3298969072
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 58762.8865979381
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 59072.1649484536
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						56907.2164948454,
+						7,
+						463.917525773196
+					],
+					[
+						56907.2164948454,
+						5,
+						463.917525773196
+					],
+					[
+						57525.7731958763,
+						4,
+						154.639175257732
+					],
+					[
+						57835.0515463917,
+						5,
+						0
+					],
+					[
+						57835.0515463917,
+						6,
+						0
+					],
+					[
+						57989.6907216495,
+						7,
+						0
+					],
+					[
+						58144.3298969072,
+						5,
+						463.917525773196
+					],
+					[
+						58144.3298969072,
+						4,
+						463.917525773196
+					],
+					[
+						58762.8865979381,
+						6,
+						463.917525773196
+					],
+					[
+						58762.8865979381,
+						7,
+						463.917525773196
+					],
+					[
+						56907.2164948454,
+						0,
+						0,
+						3
+					],
+					[
+						57525.7731958763,
+						0,
+						1.13686837721616e-13,
+						3
+					],
+					[
+						58144.3298969072,
+						0,
+						0,
+						3
+					],
+					[
+						58762.8865979381,
+						0,
+						2.27373675443232e-13,
+						3
+					],
+					[
+						59072.1649484536,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 59381.4432989691
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 60618.5567010309
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59381.4432989691,
+						1,
+						309.278350515464
+					],
+					[
+						59381.4432989691,
+						0,
+						309.278350515464
+					],
+					[
+						60309.2783505155,
+						1,
+						154.639175257732
+					],
+					[
+						60309.2783505155,
+						0,
+						154.639175257732
+					],
+					[
+						60618.5567010309,
+						1,
+						309.278350515464
+					],
+					[
+						60618.5567010309,
+						3,
+						309.278350515464
+					],
+					[
+						61546.3917525773,
+						2,
+						154.639175257732
+					],
+					[
+						61546.3917525773,
+						1,
+						154.639175257732
+					],
+					[
+						59381.4432989691,
+						4,
+						0,
+						3
+					],
+					[
+						60618.5567010309,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 61855.6701030928
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 63092.7835051546
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 63556.7010309278
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 64020.618556701
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						61855.6701030928,
+						2,
+						309.278350515464
+					],
+					[
+						61855.6701030928,
+						3,
+						309.278350515464
+					],
+					[
+						62783.5051546392,
+						1,
+						154.639175257732
+					],
+					[
+						62783.5051546392,
+						2,
+						154.639175257732
+					],
+					[
+						63092.7835051546,
+						1,
+						154.639175257732
+					],
+					[
+						63092.7835051546,
+						0,
+						154.639175257732
+					],
+					[
+						63402.0618556701,
+						3,
+						0
+					],
+					[
+						63556.7010309278,
+						2,
+						0
+					],
+					[
+						63711.3402061856,
+						1,
+						0
+					],
+					[
+						63865.9793814433,
+						2,
+						0
+					],
+					[
+						64020.618556701,
+						0,
+						0
+					],
+					[
+						64175.2577319588,
+						1,
+						0
+					],
+					[
+						61855.6701030928,
+						4,
+						0,
+						3
+					],
+					[
+						63092.7835051546,
+						4,
+						0,
+						3
+					],
+					[
+						63556.7010309278,
+						4,
+						2.27373675443232e-13,
+						3
+					],
+					[
+						64020.618556701,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 64329.8969072165
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 65876.2886597938
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 66494.8453608247
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64329.8969072165,
+						7,
+						463.917525773196
+					],
+					[
+						64639.175257732,
+						5,
+						154.639175257732
+					],
+					[
+						64948.4536082474,
+						4,
+						463.917525773196
+					],
+					[
+						65567.0103092784,
+						6,
+						463.917525773196
+					],
+					[
+						66494.8453608247,
+						5,
+						154.639175257732
+					],
+					[
+						64329.8969072165,
+						0,
+						0,
+						3
+					],
+					[
+						65876.2886597938,
+						0,
+						2.27373675443232e-13,
+						3
+					],
+					[
+						66494.8453608247,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 68041.2371134021
+					},
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 68969.0721649485
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66804.1237113402,
+						7,
+						463.917525773196
+					],
+					[
+						67113.4020618557,
+						5,
+						154.639175257732
+					],
+					[
+						67422.6804123711,
+						4,
+						463.917525773196
+					],
+					[
+						68041.2371134021,
+						6,
+						463.917525773196
+					],
+					[
+						68659.793814433,
+						7,
+						463.917525773196
+					],
+					[
+						68041.2371134021,
+						0,
+						2.27373675443232e-13,
+						3
+					],
+					[
+						68969.0721649485,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 69278.3505154639
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71134.0206185567,
+						1,
+						154.639175257732
+					],
+					[
+						71443.2989690722,
+						2,
+						154.639175257732
+					],
+					[
+						69278.3505154639,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 72371.1340206186
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71752.5773195876,
+						0,
+						154.639175257732
+					],
+					[
+						73298.9690721649,
+						3,
+						154.639175257732
+					],
+					[
+						73608.2474226804,
+						2,
+						154.639175257732
+					],
+					[
+						73917.5257731959,
+						0,
+						154.639175257732
+					],
+					[
+						72371.1340206186,
+						4,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 74845.3608247423
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74226.8041237113,
+						6,
+						154.639175257732
+					],
+					[
+						76082.4742268041,
+						5,
+						154.639175257732
+					],
+					[
+						76391.7525773196,
+						6,
+						0
+					],
+					[
+						74845.3608247423,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 77319.587628866
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76701.030927835,
+						5,
+						154.639175257732
+					],
+					[
+						78556.7010309278,
+						7,
+						154.639175257732
+					],
+					[
+						78865.9793814433,
+						5,
+						154.639175257732
+					],
+					[
+						77319.587628866,
+						0,
+						1.13686837721616e-13,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						79175.2577319588,
+						2,
+						154.639175257732
+					],
+					[
+						80412.3711340206,
+						0,
+						154.639175257732
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [
+					{
+						"events": [
+							{
+								"args": [
+									0.1,
+									0.1
+								],
+								"name": "Camera Zoom Bump"
+							}
+						],
+						"time": 81649.4845360825
+					}
+				],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81649.4845360825,
+						0,
+						0,
+						3
+					]
+				],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"altAnim": false,
+				"mustHitSection": true,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"bpm": 97,
+				"changeBPM": false
+			},
+			{
+				"events": [],
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 97,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "Hugo",
+		"initialSpeed": 1.035,
+		"sliderVelocities": null,
+		"splashSkin": "noteSplashes",
+		"song": "Hugo",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"stage": "red",
+		"validScore": true,
+		"bpm": 97,
+		"speed": 2.3
+	}
+}

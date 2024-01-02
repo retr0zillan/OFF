@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JaphetRPG.png">
+<SubTexture name="JaphetRPG up0000" x="106" y="29" width="23" height="28" frameX="-5" frameY="-3" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG up0001" x="106" y="57" width="22" height="28" frameX="-5" frameY="-2" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG up0002" x="0" y="85" width="23" height="28" frameX="-5" frameY="-3" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG up0003" x="106" y="57" width="22" height="28" frameX="-5" frameY="-2" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG walk0000" x="52" y="0" width="28" height="29" frameX="-2" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG walk0001" x="80" y="0" width="26" height="29" frameX="-4" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG walk0002" x="0" y="56" width="28" height="29" frameX="-2" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG walk0003" x="80" y="0" width="26" height="29" frameX="-4" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG down0000" x="28" y="56" width="22" height="29" frameX="-5" frameY="-2" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG down0001" x="50" y="56" width="22" height="29" frameX="-5" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG down0002" x="72" y="56" width="22" height="29" frameX="-5" frameY="-2" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG down0003" x="50" y="56" width="22" height="29" frameX="-5" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG sit0000" x="106" y="0" width="26" height="29" frameX="-4" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG sit0001" x="106" y="0" width="26" height="29" frameX="-4" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG sit0002" x="106" y="0" width="26" height="29" frameX="-4" frameY="-1" frameWidth="21" frameHeight="19" />
+<SubTexture name="JaphetRPG portrait0000" x="0" y="0" width="52" height="56" frameX="0" frameY="-4" frameWidth="40" frameHeight="48" />
+</TextureAtlas>

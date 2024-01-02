@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DedanRPG.png">
+<SubTexture name="DedanRPG up0000" x="60" y="0" width="29" height="44" frameX="-4" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG up0001" x="89" y="0" width="32" height="44" frameX="-2" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG up0002" x="0" y="57" width="29" height="44" frameX="-3" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG up0003" x="89" y="0" width="32" height="44" frameX="-2" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG right0000" x="121" y="0" width="31" height="43" frameX="-3" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG right0001" x="29" y="57" width="25" height="44" frameX="-4" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG right0002" x="0" y="101" width="34" height="43" frameX="0" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG right0003" x="29" y="57" width="25" height="44" frameX="-4" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG down0000" x="121" y="43" width="28" height="43" frameX="-4" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG down0001" x="54" y="57" width="32" height="44" frameX="-2" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG down0002" x="34" y="101" width="28" height="43" frameX="-4" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG down0003" x="54" y="57" width="32" height="44" frameX="-2" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG left0000" x="62" y="101" width="34" height="43" frameX="-2" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG left0001" x="86" y="57" width="25" height="44" frameX="-7" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG left0002" x="96" y="101" width="31" height="43" frameX="-2" frameY="-2" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG left0003" x="86" y="57" width="25" height="44" frameX="-7" frameY="-1" frameWidth="24" frameHeight="33" />
+<SubTexture name="DedanRPG portrait0000" x="0" y="0" width="60" height="57" frameX="0" frameY="-3" frameWidth="48" frameHeight="48" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pancat.png">
+<SubTexture name="pancat up0000" x="0" y="0" width="26" height="32" frameX="-6" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat up0001" x="26" y="0" width="26" height="32" frameX="-6" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat up0002" x="52" y="0" width="26" height="32" frameX="-6" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat up0003" x="26" y="0" width="26" height="32" frameX="-6" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat right0000" x="36" y="64" width="36" height="31" frameX="-1" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat right0001" x="0" y="32" width="36" height="32" frameX="-1" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat right0002" x="104" y="0" width="36" height="31" frameX="-1" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat right0003" x="0" y="32" width="36" height="32" frameX="-1" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat down0000" x="36" y="32" width="26" height="32" frameX="-6" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat down0001" x="78" y="0" width="26" height="32" frameX="-6" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat down0002" x="78" y="32" width="26" height="32" frameX="-6" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat down0003" x="78" y="0" width="26" height="32" frameX="-6" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat left0000" x="104" y="31" width="36" height="31" frameX="-1" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat left0001" x="0" y="64" width="36" height="32" frameX="-1" frameY="-1" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat left0002" x="104" y="62" width="36" height="31" frameX="-1" frameY="-2" frameWidth="26" frameHeight="22" />
+<SubTexture name="pancat left0003" x="0" y="64" width="36" height="32" frameX="-1" frameY="-1" frameWidth="26" frameHeight="22" />
+</TextureAtlas>

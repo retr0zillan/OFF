@@ -1,0 +1,76 @@
+{
+	
+	"camOffset": [
+		260,
+		-430
+	],
+	"healthColor": "0xFF31B0D1",
+	"beatDancer": false,
+	"charOffset": [
+		0,
+		350
+	],
+	"flipX": false,
+	"spritesheet": "Enoch",
+	"anims": [
+		{
+			"prefix": "down",
+			"offsets": [
+				-19,
+				211
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singDOWN",
+			"looped": false
+		},
+		{
+			"prefix": "up",
+			"offsets": [
+				-3,
+				326
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singUP",
+			"looped": false
+		},
+		{
+			"prefix": "left",
+			"offsets": [
+				16,
+				254
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singLEFT",
+			"looped": false
+		},
+		{
+			"prefix": "right",
+			"offsets": [
+				-11,
+				266
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"prefix": "Idle",
+			"offsets": [
+				4,
+				279
+			],
+			"indices": null,
+			"fps": 24,
+			"name": "idle",
+			"looped": false
+		}
+	],
+	"singDur": 4,
+	"antialiasing": true,
+	"iconName": "dad",
+	"scale": 1
+}

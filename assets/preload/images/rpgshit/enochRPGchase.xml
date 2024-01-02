@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="enochRPGchase.png">
+<SubTexture name="enochRPGchase walk0000" x="0" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0001" x="0" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0002" x="0" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0003" x="0" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0004" x="104" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0005" x="104" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0006" x="104" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+<SubTexture name="enochRPGchase walk0007" x="104" y="0" width="104" height="112" frameX="0" frameY="0" frameWidth="94" frameHeight="102" />
+</TextureAtlas>

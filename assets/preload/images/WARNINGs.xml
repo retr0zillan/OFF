@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WARNINGs.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WARNINGs0000" x="20" y="20" width="1802" height="1310"/>
+	<SubTexture name="WARNINGs0001" x="1842" y="20" width="1292" height="771" frameX="-510" frameY="-240" frameWidth="1802" frameHeight="1310"/>
+</TextureAtlas>

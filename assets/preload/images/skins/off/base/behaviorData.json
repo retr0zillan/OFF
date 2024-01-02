@@ -1,0 +1,69 @@
+{
+  "actsLike": "default",
+  "scale": 0.7,
+  "antialiasing": true,
+  "sustainAlpha": 0.6,
+  "receptorAlpha": 1,
+  "arguments": {
+      "notes":{
+        "sheet": "offNote",
+        "up":{
+          "prefix": "green0",
+          "longPrefix": "green hold piece",
+          "longEndPrefix": "green hold end",
+          "angle": 0
+		
+
+        },
+        "down":{
+          "prefix": "blue0",
+          "longPrefix": "blue hold piece",
+          "longEndPrefix": "blue hold end",
+          "angle": 0
+
+
+        },
+        "left":{
+          "prefix": "purple0",
+          "longPrefix": "purple hold piece",
+          "longEndPrefix": "pruple end hold",
+          
+          "angle": 0
+        },
+        "right":{
+          "prefix": "red0",
+          "longPrefix": "red hold piece",
+          "longEndPrefix": "red hold end",
+          "angle": 0
+        }
+
+      },
+      "receptors":{
+        "sheet": "offNote",
+        "down":{
+          "prefix":"arrowDOWN",
+          "press":"down press",
+          "confirm":"down confirm",
+		  "xOffset": 100
+
+        },
+        "up":{
+          "prefix":"arrowUP",
+          "press":"up press",
+          "confirm":"up confirm",
+		  "xOffset": 100
+        },
+        "right":{
+          "prefix":"arrowRIGHT",
+          "press":"right press",
+          "confirm":"right confirm"
+        },
+        "left":{
+          "prefix":"arrowLEFT",
+          "press":"left press",
+          "confirm":"left confirm"
+        }
+
+      }
+  }
+}

@@ -1,0 +1,18 @@
+-batter-Where is Dedan?
+-elsenMiner-Oh! You're... you're here so soon! I... um... I can't... uh... tell you where Dedan is.
+-batter-I must find him.
+-elsenMiner-Y...yes, I... I understand, but... I can't give you that information... I'm sorry.
+-batter-Why?
+-elsenMiner-Well... you see... there's... there's something important. 
+-elsenMiner-It's called the black box. It's being guarded... uh... inside the smoke mines.
+-elsenMiner-But I can't... I can't let you pass. Dedan... he... uh... he told me to keep you away.
+-batter-The black box, Tell me more about it.
+-elsenMiner-I...I can't... I'm not supposed to... um... share any information about it. 
+-elsenMiner-But... those aggressive ghosts... they're causing trouble. They're hurting the workers.
+-elsenMiner- I'm... I'm really worried about them.
+-batter-I'll purify the ghosts.
+-elsenMiner-Well... I... Dedan didn't say anything about that... 
+-elsenMiner-But if you can eliminate the ghosts and ensure the safety of the workers...
+-elsenMiner-Maybe... maybe you can have the black box. They're guarding it after all, and... and they're causing harm.
+-batter-Got it.
+-elsenMiner-The...smoke mines...they...they are right ahead.

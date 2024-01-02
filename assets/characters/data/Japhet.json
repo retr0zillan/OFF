@@ -1,0 +1,97 @@
+{
+	"charOffset": [
+		0,
+		350
+	],
+	"scale": 1,
+	"singDur": 4,
+	"anims": [
+		{
+			"offsets": [
+				125,
+				191
+			],
+			"fps": 24,
+			"prefix": "idle",
+			"looped": false,
+			"name": "idle",
+			"indices": null
+		},
+		{
+			"offsets": [
+				231,
+				304
+			],
+			"fps": 24,
+			"prefix": "down",
+			"looped": false,
+			"name": "singDOWN",
+			"indices": null
+		},
+		{
+			"offsets": [
+				182,
+				330
+			],
+			"fps": 24,
+			"prefix": "up",
+			"looped": false,
+			"name": "singUP",
+			"indices": null
+		},
+		{
+			"offsets": [
+				348,
+				232
+			],
+			"fps": 24,
+			"prefix": "left",
+			"looped": false,
+			"name": "singLEFT",
+			"indices": null
+		},
+		{
+			"prefix": "right",
+			"offsets": [
+				341,
+				313
+			],
+			"fps": 24,
+			"name": "singRIGHT",
+			"looped": false
+		},
+		{
+			"offsets": [
+				-51,
+				-104
+			],
+			"fps": 24,
+			"prefix": "valerie",
+			"looped": true,
+			"name": "valerie",
+			"indices": null
+		},
+		{
+			"offsets": [
+				-70,
+				-37
+			],
+			"fps": 24,
+			"prefix": "japhet",
+			"looped": true,
+			"name": "japhet",
+			"indices": null
+		}
+	],
+	"spritesheet": "Japhet",
+	"camOffset": [
+		120,
+		-380
+	],
+	"flipX": false,
+	"iconName": "dad",
+	"antialiasing": true,
+	"beatDancer": false,
+	"format": "andromeda",
+	"healthColor": "0xFF31B0D1"
+}

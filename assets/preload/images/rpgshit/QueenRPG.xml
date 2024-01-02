@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="QueenRPG.png">
+<SubTexture name="QueenRPG idle0000" x="56" y="0" width="24" height="35" frameX="0" frameY="0" frameWidth="12" frameHeight="23" />
+<SubTexture name="QueenRPG portrait0000" x="0" y="0" width="56" height="58" frameX="0" frameY="-2" frameWidth="44" frameHeight="48" />
+</TextureAtlas>
